@@ -1,0 +1,50 @@
+[
+  {
+    "nome_produto": "CDB Pós-Fixado Bradesco",
+    "categoria": "Renda Fixa",
+    "rentabilidade": "100% do CDI",
+    "risco": "Baixo",
+    "liquidez": "Diária",
+    "nota_graham": "Excelente para Reserva de Emergência."
+  },
+  {
+    "nome_produto": "LCI Imobiliário Ágora",
+    "categoria": "Renda Fixa",
+    "rentabilidade": "92% do CDI (Isento de IR)",
+    "risco": "Baixo",
+    "liquidez": "90 dias",
+    "nota_graham": "Boa margem de segurança e benefício fiscal."
+  },
+  {
+    "nome_produto": "Título de Capitalização Pé Quente",
+    "categoria": "Sorteio/Serviço",
+    "rentabilidade": "TR (Próximo a zero)",
+    "risco": "Médio (Custo de oportunidade)",
+    "liquidez": "Final do prazo",
+    "nota_graham": "Atenção: Isso não é investimento. Graham desaconselha pela falta de retorno real."
+  },
+  {
+    "nome_produto": "Ação BBDC4 (Bradesco PN)",
+    "categoria": "Renda Variável",
+    "rentabilidade": "Dividendos + Valorização",
+    "risco": "Médio",
+    "liquidez": "D+2",
+    "nota_graham": "Ativo de valor. Avaliar preço atual vs valor intrínseco."
+  },
+  {
+    "nome_produto": "COE Global Tech (S&P 500)",
+    "categoria": "Estruturado",
+    "rentabilidade": "Variável (Capital Protegido)",
+    "risco": "Médio/Alto",
+    "liquidez": "2 anos",
+    "nota_graham": "Cuidado com taxas escondidas. Complexidade reduz a margem de segurança."
+  },
+  {
+    "nome_produto": "Tesouro IPCA+ 2035",
+    "categoria": "Tesouro Direto",
+    "rentabilidade": "IPCA + 6.2% ao ano",
+    "risco": "Mínimo",
+    "liquidez": "Diária (Mercado secundário)",
+    "nota_graham": "Ouro para o investidor defensivo de longo prazo."
+  }
+]

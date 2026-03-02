@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+env/
+
+# Streamlit
+.streamlit/config.toml
+
+# GRAHAM-IO Arquivos Temporários
+*.mp3
+*.wav
+temp_voice.mp3
+voice.wav
+
+# Logs e Dados Sensíveis
+log_auditoria.txt
+.env
+
+# MacOS
+.DS_Store
