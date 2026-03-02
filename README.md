@@ -51,7 +51,7 @@ Interface: Streamlit (Dashboard financeiro).
 
 Dados: Pandas para processamento de CSV/JSON.
 
-🛡️ Segurança e Anti-Alucinação
+## 🛡️ Segurança e Anti-Alucinação
 Para garantir a confiabilidade exigida no setor financeiro, implementamos:
 
 Grounding Estrito: A IA só recomenda produtos presentes no arquivo oficial de produtos.
@@ -60,24 +60,31 @@ Few-Shot Prompting: Exemplos no System Prompt que ensinam o agente a recusar per
 
 Logs de Auditoria: Todas as interações são gravadas automaticamente na pasta de cada cliente para rastreabilidade.
 
-⚙️ Como Instalar e Rodar
+## ⚙️ Como Instalar e Rodar
 Clonar o Repositório:
 
-Bash
-git clone [https://github.com/seu-usuario/DIO-BOOTCAMP-Projeto_final-GRAHAM-IO.git](https://github.com/seu-usuario/DIO-BOOTCAMP-Projeto_final-GRAHAM-IO.git)
-cd DIO-BOOTCAMP-Projeto_final-GRAHAM-IO
+bash
+
+git clone [https://github.com/seu-usuario/DIO-BOOTCAMP-Projeto_final-GRAHAM-IO_Last.git](https://github.com/seu-usuario/DIO-BOOTCAMP-Projeto_final-GRAHAM-IO_Last.git)
+cd DIO-BOOTCAMP-Projeto_final-GRAHAM-IO_Last
+
 Instalar Dependências:
 
-Bash
+bash
+
 pip install -r requirements.txt
+
 Configurar API Key:
+
 Abra o arquivo src/GRAHAM-IO_v017.py e insira sua chave da OpenAI na variável client = OpenAI(api_key="SUA_CHAVE_AQUI").
 
 Executar a Aplicação:
 
-Bash
+bash
+
 streamlit run src/GRAHAM-IO_v017.py
-📄 Documentação do Desafio
+
+## 📄 Documentação do Desafio
 Os documentos detalhados de cada etapa podem ser acessados na pasta /docs.
 
 Projeto desenvolvido para o Bootcamp de IA Generativa.
