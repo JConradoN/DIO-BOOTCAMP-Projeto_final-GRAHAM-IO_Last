@@ -63,7 +63,7 @@ Logs de Auditoria: Todas as interações são gravadas automaticamente na pasta 
 ## ⚙️ Como Instalar e Rodar
 Clonar o Repositório:
 
-bash
+`bash
 
 git clone [https://github.com/seu-usuario/DIO-BOOTCAMP-Projeto_final-GRAHAM-IO_Last.git](https://github.com/seu-usuario/DIO-BOOTCAMP-Projeto_final-GRAHAM-IO_Last.git)
 
